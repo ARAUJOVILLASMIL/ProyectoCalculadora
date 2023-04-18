@@ -1,7 +1,7 @@
 # ProyectoCalculadora
 Mini proyecto calculadora 
 # https://araujovillasmil.github.io/ProyectoCalculadora/
-#Pasos:
+Pasos:
 #1- Estructurar el HTML: Crear una estructura HTML básica que contenga los botones y pantalla donde se mostrará el resultado.
 #2- Agregar estilos CSS: Darle estilo a la calculadora con CSS para que se vea atractiva y sea fácil de usar.
 #3- Vincular el HTML con JavaScript: Utilizar el DOM de JavaScript para acceder a los elementos de la página y actualizarlos en respuesta a las acciones del usuario.
