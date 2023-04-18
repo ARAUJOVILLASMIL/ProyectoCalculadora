@@ -8,3 +8,4 @@ Pasos:
 4- Agregar funcionalidad de los botones: Programar los botones para que realicen las operaciones aritméticas básicas (suma, resta, multiplicación, división), para borrar un dígito o para borrar todo.
 5- Implementar la lógica de la calculadora: Utilizar variables y funciones de JavaScript para hacer cálculos matemáticos básicos.
 
+![image](https://user-images.githubusercontent.com/113929552/232891675-2b2ee05b-3e16-435c-9a3f-268dfe5f5f6c.png)
